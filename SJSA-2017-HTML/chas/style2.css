@@ -1,0 +1,21 @@
+body{
+padding: 0;
+margin: 0;
+}
+.main{
+	width: 1024px;a	height: 1500px;
+	background-color: yellow;
+	margin: 0 auto;
+}
+.transparent-box{
+
+	width:1024px; 
+	height:200px;
+	background-color: rgba(0,0,0,.5);
+	}.trasparent-box h1 {
+		color: #fff;
+		font-family: Arial;
+		font-weight: 400;
+		text-transform: uppercase;
+		line-height: 50px;
+	}
